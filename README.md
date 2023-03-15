@@ -18,15 +18,25 @@ So there are a number of pieces of software out there but I am going to give alm
 
 
 ### Web Browsers
-
+- [Chrome](https://www.google.co.uk/chrome/)
+- [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Brave](https://brave.com/)
+- [Opera](https://www.opera.com/)
+- []()
 
 ### Local Web Server
-
+- [XAMPP](https://www.apachefriends.org/download.html)
 
 ### Graphics Editor
-
+- [Paint.NET](https://www.getpaint.net/)
+- [Adobe Photoshop](https://www.adobe.com/uk/products/photoshop)
 
 ### Version Control
-
+- [Github](https://github.com/)
+    - [GitHub Desktop](https://desktop.github.com/)
+    - [Sublime Merge](https://www.sublimemerge.com/)
+    - [GitKraken Client](https://www.gitkraken.com/git-client)
 
 ### Databases
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [HeidiSQL](https://www.heidisql.com/)
